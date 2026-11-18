@@ -1,6 +1,6 @@
 # Hi, I'm Agust!
 
-I'm a final-year Master of Science Software Engineering student at Linnaeus University in Sweden, graduating in 2027.
+I'm a final-year Master of Science Software Engineering student at Linnaeus University in Växjö Sweden, graduating in 2027.
 
 ## Technologies
 
