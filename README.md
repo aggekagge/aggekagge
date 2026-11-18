@@ -1,6 +1,6 @@
 # Hi, I'm Agust!
 
-I'm a final-year Software Engineering student at Linnaeus University in Sweden, graduating in 2027.
+I'm a final-year Master of Science Software Engineering student at Linnaeus University in Sweden, graduating in 2027.
 
 ## Technologies
 
@@ -12,8 +12,8 @@ I'm a final-year Software Engineering student at Linnaeus University in Sweden, 
 
 Some of the projects I've worked on include:
 
-- **GIROvis:** Interactive visualization and analysis of global investment risk using economic and terrorism data, with Machine Learning and Data Mining Techniques/Algorithms for Analysis.
-- **Machine Learning Web Application:** A web-based system integrating trained ML models with a prediction API and frontend, for predicting and evaluating body movements, models trained on squatting excercises.
+- **GIROvis:** Interactive visualization and analysis of global investment risk using economic and terrorism data, with Machine Learning and Data Mining Techniques/Algorithms for Analysis. [Not yet finished]
+- **Machine Learning Web Application:** A web-based system integrating trained ML models with a prediction API and frontend, for predicting, evaluating body movements and visualizing a recording into a 3D skeleton, the models are trained on squatting exercises but can be trained for other movements/excercises.
 
 You can explore my featured repositories below.
 
