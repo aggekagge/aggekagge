@@ -21,5 +21,5 @@ You can explore my featured repositories below.
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/agust-eliasson-791676206/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmFWTvNDHTXW9c4zpTIQD7w%3D%3D
-- Email: Agusteliasson@gmail.com
+- Email: Agusteliasson03@gmail.com
 - Phone: 076-170 22 04
