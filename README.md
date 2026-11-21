@@ -4,7 +4,7 @@ I'm a final-year Master of Science Software Engineering student at Linnaeus Univ
 
 ## Technologies
 
-**Languages:**  Python, Java, C, C++, C#, XML, GoLang, SQL, Typescript, JavaScript, HTML, CSS, Assembly, MATLAB
+**Languages:**  Python, Java, C, C++, C#, XML, Go, SQL, Typescript, JavaScript, HTML, CSS, Assembly, MATLAB
 
 **Tools:** Git, GitHub, GitLab, Docker, Docker Compose, VS Code, Thonny, Jupyter Notebook, MLflow, Gradle, Eclipse
 
