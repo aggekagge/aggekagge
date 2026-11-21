@@ -13,7 +13,7 @@ I'm a final-year Master of Science Software Engineering student at Linnaeus Univ
 Some of the projects I've worked on include:
 
 - **GIROvis:** Interactive visualization and analysis of global investment risk using economic and terrorism data, with Machine Learning and Data Mining Techniques/Algorithms for Analysis. [Not yet finished]
-- **Machine Learning Web Application:** A web-based system integrating trained ML models with a prediction API and frontend, for predicting, evaluating body movements and visualizing a recording into a 3D skeleton, the models are trained on squatting exercises but can be trained for other movements/excercises.
+- **Machine Learning Web Application Pose Recorder:** A full-stack application for recording, analyzing, and evaluating human body movements using machine learning. The system uses **MoveNet** to extract 2D body keypoints from video recordings and trained ML models to transform these into **3D Kinect-style coordinates** for interactive skeleton visualization. Additional models predict **movement quality (AIMO score)** and classify the **weakest link** in a movement. Built using **Python, FastAPI, MLflow, Node.js, JavaScript, and Docker**. The models were trained primarily on squatting exercises, but the system can be adapted to other movements through additional training.
 
 You can explore my featured repositories below.
 
